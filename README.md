@@ -1,4 +1,4 @@
-#MagVet - Tarjeta Virtual para Veterinaria
+MagVet - Tarjeta Virtual para Veterinaria
 
 MagVet es una mini landing page diseñada como tarjeta virtual para una clínica veterinaria. Este proyecto es un prototipo funcional que muestra información básica de contacto, servicios y ubicación.
 
@@ -11,7 +11,7 @@ MagVet es una mini landing page diseñada como tarjeta virtual para una clínica
 
 ✅ Estilo moderno y profesional.
 
-#Tecnologías Usadas
+Tecnologías Usadas
 
 HTML5
 
